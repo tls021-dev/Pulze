@@ -1,0 +1,9 @@
+pulze
+ ├─ app
+ │   ├─ page.tsx
+ │   └─ api
+ │       └─ search
+ │           └─ route.ts
+ ├─ package.json
+ ├─ tailwind.config.js
+ └─ next.config.js
